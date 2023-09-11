@@ -295,8 +295,13 @@ ways to help you resolve such conflicts without too much difficulty.
 
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
+<<<<<<< HEAD
 
 - [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+=======
+SMALL EDIT
+- [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+>>>>>>> d72ba9c902682454bad4d21576ba12af6a79f804
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
@@ -337,7 +342,7 @@ working code on MarkUs.
 
 ## Task 5: Reduce a number to 0
 
-- [ ] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
+- [X] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
 
 Starting with a number n, if n is even divide it by 2. If n is odd, subtract 1. Repeat.
 
